@@ -1,0 +1,1 @@
+El curso de MesdeDatos de microsoft es un buen inicio en el mundo de la programacion, recalcar que no solo se fijen en los conceptos que les proporciona el curso, sino tambien investigar mas profundo al tema.
